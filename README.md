@@ -8,7 +8,7 @@
 
 Android와 Flutter를 중심으로 모바일 애플리케이션을 개발하고 있습니다.
 
-- **[2026.09 ~ Present]** UMC 11th Mobile Challenger
+- **[2026.09 ~ ]** UMC 11th Mobile Challenger
 - **[2026.03 ~ 2026.08]** UMC 10th Android Challenger
 
 ---
