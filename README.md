@@ -1,10 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Wonjae Choi — Mobile Developer" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=220&section=header&text=Wonjae%20Choi&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20and%20Flutter%20Developer&descAlignY=58&descSize=20" alt="Wonjae Choi header" />
-
-</div>
-
-# 🎓 About Me
+## 01 · Profile
 
 Android와 Flutter를 중심으로 모바일 애플리케이션을 개발하고 있습니다.
 
@@ -13,24 +11,23 @@ Android와 Flutter를 중심으로 모바일 애플리케이션을 개발하고 
 
 ---
 
-# 🛠️ Tech Stack
+## 02 · Toolkit
 
 ### Mobile
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+[![Mobile Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&theme=light)](https://skillicons.dev)
+
+`Android` · `Kotlin` · `Flutter` · `Dart`
 
 ### Design & Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Design and Tools](https://skillicons.dev/icons?i=figma,git,github&theme=light)](https://skillicons.dev)
+
+`Figma` · `Git` · `GitHub`
 
 ---
 
-# 🚀 Projects
+## 03 · Selected Work
 
 ### 👨‍👩‍👧 [SeniorON](https://github.com/SeniorON/SeniorON_AOS)
 
@@ -71,4 +68,3 @@ Android와 Flutter를 중심으로 모바일 애플리케이션을 개발하고 
 - 로그인·회원가입·마이페이지와 사용자 정보 수정 기능 구현 및 API 연동
 - 매장 상세, 단골 매장, 장바구니, 구매와 리뷰 기능 구현
 - 사장님 페이지와 상품 등록 흐름을 개발하고 주문 알림 및 결제 연동 로직 개선
-
