@@ -14,7 +14,7 @@ Android와 Flutter를 중심으로 사용자에게 필요한 흐름을 고민하
 ## 01 / Experience
 
 **UMC 11th · Mobile Challenger**<br>
-2026.09 — Present
+2026.09 — 
 
 **UMC 10th · Android Challenger**<br>
 2026.03 — 2026.08
