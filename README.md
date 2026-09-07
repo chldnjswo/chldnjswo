@@ -67,9 +67,17 @@ Android와 Flutter를 중심으로 사용자에게 필요한 흐름을 고민하
 
 ## 03 / Toolkit
 
-| Mobile | Design & Workflow |
-| :--- | :--- |
-| Android · Kotlin · Flutter · Dart | Figma · Git · GitHub |
+### Mobile
+
+[![Mobile Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&theme=light)](https://skillicons.dev)
+
+`Android` · `Kotlin` · `Flutter` · `Dart`
+
+### Design & Tools
+
+[![Design and Tools](https://skillicons.dev/icons?i=figma,git,github&theme=light)](https://skillicons.dev)
+
+`Figma` · `Git` · `GitHub`
 
 ---
 
